@@ -23,19 +23,11 @@ footer:
       value: gmail
       link: mailto:rlathgus9872@gmail.com
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/sohyeon98720
+    - name: GitHub Blog
+      link: https://sohyeon98720.github.io/
+
 
 # Build settings
 markdown: kramdown
