@@ -25,7 +25,8 @@ footer:
   follow:
     - name: GitHub
       link: http://github.com/sohyeon98720
-    - name: GitHub Blog
+    - name: GitHub
+      value: GitHub Blog
       link: https://sohyeon98720.github.io/
 
 
