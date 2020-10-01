@@ -19,12 +19,9 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+    - name: Email-1
+      value: gmail
+      link: mailto:rlathgus9872@gmail.com
   follow:
     - name: Twitter
       link: http://twitter.com/YourTwitterUsername
