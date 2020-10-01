@@ -19,7 +19,7 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: Email-1
+    - name: Email
       value: gmail
       link: mailto:rlathgus9872@gmail.com
   follow:
