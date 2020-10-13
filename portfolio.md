@@ -1,7 +1,7 @@
 ---
 layout: portfolio
-title: Portfolio
-slug: /Portfolio
+title: portfolio
+slug: /portfolio
 items:
   - title: My Interest 1
     image:
