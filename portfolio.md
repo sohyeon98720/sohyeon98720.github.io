@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: portfolio
 title: Portfolio
 slug: /Portfolio
 items:
