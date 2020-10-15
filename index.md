@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/pink_sky.jpg
+  src: /assets/img/sky.png
   alt: website picture
 ---
 
