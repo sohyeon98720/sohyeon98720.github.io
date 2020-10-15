@@ -15,8 +15,8 @@ items:
     description: 스터디<br /><br />
   - title: 2019.08~09 <br />시선 추적을 이용한 잠금 해제 시스템 개발
     description: HCI 학술 동아리<br /><br />
-  - title: '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석'논문 투고
-    description: 학부생 전공심화 연구소모임 & 상명 창의융복합 통합성과대회 장려상 수상(2019.12.05)
+
+
     
     
 ---
