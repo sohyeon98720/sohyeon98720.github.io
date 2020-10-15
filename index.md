@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
- Welcome!This site is for those preparing for coding tests. You can click on the portfolio tab to view:)
+ Welcome!<br>This site is for those preparing for coding tests. You can click on the portfolio tab to view:)
 </p>
 
 <p>
