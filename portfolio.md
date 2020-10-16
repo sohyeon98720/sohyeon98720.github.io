@@ -30,13 +30,24 @@ __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentati
 팀 스터디<br>
 `deeplearning` `classification` `object detection` `segmentation`
 
+-------------------
+
 ## 2019
 __(2019.08~09) 시선 추적을 이용한 잠금 해제 시스템 개발__<br>
 HCI 학술 동아리 활동<br>
 `gaze tracking` `eye tracking`
 
-__(2019.04~06) '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석'논문 투고__<br>
+__(2019.06~10) 블록체인 기반 이력관리 시스템 개발__<br>
+이브와 ict멘토링 사업. 장려상 수상(11.21)<br>
+`blockchain` `solidity` `dapp`
 
+__(2019.04~06) '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석'논문 투고__<br>
+학부생 전공심화 연구소모임. 통합성과발표대회 SM-URP부문 장려상 수상(12.05)<br>
+`journal`
+
+
+
+__
 
 
 __
