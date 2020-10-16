@@ -26,6 +26,10 @@ __(2020.04~06) instance segmentation기술을 이용한 사진편집 앱__<br>
 교내 스터디 상생<br>
 `deeplearning` `segmentation` `instance segmentation`
 
+__(2020.04~06) U-net알고리즘을 이용한 지정맥영상 segmentation__<br>
+졸업 프로젝트<br>
+`deeplearning` `u-net`
+
 __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentation__<br>
 팀 스터디<br>
 `deeplearning` `classification` `object detection` `segmentation`
@@ -43,7 +47,12 @@ __(2019.06~10) 블록체인 기반 이력관리 시스템 개발__<br>
 
 __(2019.04~06) '2k factorial design을 통한 습도가 미세먼지 센서에 미치는 영향 분석'논문 투고__<br>
 학부생 전공심화 연구소모임. 통합성과발표대회 SM-URP부문 장려상 수상(12.05)<br>
-`journal`
+`paper` `journal`
+
+__(2019.03~05) 코세라 강의 수강 및 딥러닝 프로젝트(뼈 사진으로 성별 예측)__<br>
+인공지능과 딥러닝 스터디<br>
+`deeplearning` `coursera`
+
 
 
 
