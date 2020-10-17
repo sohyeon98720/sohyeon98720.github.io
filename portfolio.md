@@ -37,6 +37,11 @@ __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentati
 -------------------
 
 ## 2019
+
+__(2019.11~12) 블로그검색API 및 크롤링을 통한 OTT서비스 상위 인기컨텐츠 분석__<br>
+빅데이터분석 과목 개인 프로젝트<br>
+`BigData` `data analysis` `crawing` `API`
+
 __(2019.08~09) 시선 추적을 이용한 잠금 해제 시스템 개발__<br>
 HCI 학술 동아리 활동<br>
 `gaze tracking` `eye tracking`
