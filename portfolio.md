@@ -26,7 +26,7 @@ __(2020.04~06) instance segmentation기술을 이용한 사진편집 앱__<br>
 교내 스터디 상생<br>
 `deeplearning` `segmentation` `instance segmentation`
 
-__(2020.04~06) U-net알고리즘을 이용한 지정맥영상 segmentation__<br>
+__(2020.04~진행중) U-net알고리즘을 이용한 지정맥영상 품질향상__<br>
 졸업 프로젝트<br>
 `deeplearning` `u-net`
 
