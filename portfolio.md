@@ -9,10 +9,8 @@ slug: /portfolio
 <br />
 <br />
 
-## 2020
-
 <details>
-<summary> </summary>
+<summary>2020</summary>
 <div markdown="1">
 
   __(2020.09~11) 시대, 장르별 추천 가사 생성__<br>
