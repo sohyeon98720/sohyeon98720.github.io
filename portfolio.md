@@ -10,10 +10,11 @@ slug: /portfolio
 <br />
 
 ## 2020
+
 <details>
-  <summary> </summary>
-    
-    
+<summary> </summary>
+<div markdown="1">
+
   __(2020.09~11) 시대, 장르별 추천 가사 생성__<br>
 자연어처리 과목 팀 프로젝트<br>
 `nlp` `nlg` `lyrics generation`
@@ -38,7 +39,9 @@ __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentati
 팀 스터디<br>
 `deeplearning` `classification` `object detection` `segmentation`
 
+</div>
 </details>
+
 
 -------------------
 
