@@ -41,7 +41,6 @@ __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentati
 </details>
 
 
--------------------
 <details>
 <summary>2019</summary>
 <div markdown="1">
@@ -74,7 +73,6 @@ __(2019.01) 뇌파를 이용한 기부유도 시스템 개발__<br>
 </details>
 
 
----------------
 <details>
 <summary>2018</summary>
 <div markdown="1">
@@ -89,8 +87,6 @@ __(2018.07~2018.11) 특허출원: 대중교통 환승 정보를 제공하기 위
 </div>
 </details>
 
-
------------
 <details>
 <summary>2017</summary>
 <div markdown="1">
