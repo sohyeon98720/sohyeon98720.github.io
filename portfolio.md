@@ -42,8 +42,9 @@ __(2020.02~04) 딥러닝 기반 image classification/object-detection/segmentati
 
 
 -------------------
-
-## 2019
+<details>
+<summary>2019</summary>
+<div markdown="1">
 
 __(2019.11~12) 블로그검색API 및 크롤링을 통한 OTT서비스 상위 인기컨텐츠 분석__<br>
 빅데이터분석 과목 개인 프로젝트<br>
@@ -68,6 +69,10 @@ __(2019.03~05) 코세라 강의 수강 및 딥러닝 프로젝트(뼈 사진으�
 __(2019.01) 뇌파를 이용한 기부유도 시스템 개발__<br>
 특별학기 신경공학 과목 팀 프로젝트<br>
 `brain wave` `emotive epoc` `ERP` `p300`
+
+</div>
+</details>
+
 
 ---------------
 ## 2018
