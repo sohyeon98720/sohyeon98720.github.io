@@ -11,7 +11,7 @@ slug: /portfolio
 
 ## 2020
 <details>
-  <summary>Click to expand</summary>
+  <summary> </summary>
     
     
   __(2020.09~11) 시대, 장르별 추천 가사 생성__<br>
