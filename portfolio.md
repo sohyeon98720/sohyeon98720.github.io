@@ -13,6 +13,7 @@ slug: /portfolio
 <details>
   <summary>Click to expand</summary>
     
+    
   __(2020.09~11) 시대, 장르별 추천 가사 생성__<br>
 자연어처리 과목 팀 프로젝트<br>
 `nlp` `nlg` `lyrics generation`
